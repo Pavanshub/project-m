@@ -17,8 +17,8 @@ export default function HomePage() {
               Makerble
             </h1>
             <span className="max-w-[750px] text-center text-lg font-light text-foreground">
-              This page is for Assignment purpuse. <br /> Below button will
-              navigate to{" "}
+              This Page is for Assignment Purpuse. <br /> Below Button Will
+              Navigate To{" "}
               <code className="bg-accent-foreground text-accent px-2 rounded-md">
                 my-home
               </code>
